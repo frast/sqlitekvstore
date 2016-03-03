@@ -29,5 +29,8 @@
     <ClInclude Include="..\..\..\..\tests\src\stdafx.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\..\..\include\sqlitekvstore\kvstore.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

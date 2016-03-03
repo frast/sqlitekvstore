@@ -29,6 +29,7 @@
     <ClCompile Include="..\..\..\..\tests\src\tests.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\..\..\..\include\sqlitekvstore\kvstore.h" />
     <ClInclude Include="..\..\..\..\tests\src\stdafx.h" />
   </ItemGroup>
   <ItemGroup>
